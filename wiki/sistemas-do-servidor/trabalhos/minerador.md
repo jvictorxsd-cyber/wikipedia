@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page n9fuVJaCM95imZg9qAKt -->
-
-# Minerador
+---
+title: "Minerador"
+description: "Documentação oficial do DropMC"
+---
 
 Conheça as habilidades da categoria **Minerador** do sistema de Trabalhos do DropMC. Os pontos podem ser distribuídos entre árvores diferentes.
 

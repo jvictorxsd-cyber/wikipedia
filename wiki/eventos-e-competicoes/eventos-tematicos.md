@@ -1,12 +1,13 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page cvRlrPKixyTtvPVA5oJQ -->
-
-# Eventos temáticos
+---
+title: "Eventos temáticos"
+description: "Documentação oficial do DropMC"
+---
 
 Os **eventos temáticos do DropMC** são temporadas especiais com atividades, itens e recompensas próprios. Cada evento possui um período de duração, desafios e formas de obter seus prêmios.
 
 ## Eventos realizados
 
-### [Halloween 2026](eventos-tematicos/halloween-2026.md)
+### [Halloween 2026](/wiki/eventos-e-competicoes/eventos-tematicos/halloween-2026)
 
 **18 de outubro a 17 de novembro de 2026**
 
@@ -20,4 +21,4 @@ A página do Halloween reúne os horários das atividades, equipamentos, tags, c
 
 As atividades e as recompensas variam conforme a temática. Por isso, consulte a página de cada evento para saber quais desafios estão disponíveis, até quando a temporada acontece e como participar.
 
-Para eventos e competições que não dependem de uma temporada, veja [Eventos recorrentes](eventos-recorrentes.md).
+Para eventos e competições que não dependem de uma temporada, veja [Eventos recorrentes](/wiki/eventos-e-competicoes/eventos-recorrentes).

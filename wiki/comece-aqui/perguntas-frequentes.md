@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page sJWmUCk8abzpWwVMcUwN -->
-
-# Perguntas frequentes
+---
+title: "Perguntas frequentes"
+description: "Documentação oficial do DropMC"
+---
 
 Reunimos as principais dúvidas sobre o **DropMC**, desde o primeiro acesso até os sistemas do Survival, regras e participação na comunidade. As respostas são diretas e, quando necessário, indicam a página com as instruções completas.
 
@@ -16,7 +17,7 @@ Para **Java Edition**, utilize a versão **1.21.11 ou superior**. Para **Bedrock
 
 ### Posso jogar com Minecraft não oficial (pirata)?
 
-Sim. O DropMC permite acesso pelo Java Edition com launchers não oficiais compatíveis, como o SKLauncher. O servidor possui um sistema próprio de cadastro e autenticação para essas contas. Veja [Como entrar no Java Edition](como-entrar-no-servidor/como-entrar-no-java-edition.md).
+Sim. O DropMC permite acesso pelo Java Edition com launchers não oficiais compatíveis, como o SKLauncher. O servidor possui um sistema próprio de cadastro e autenticação para essas contas. Veja [Como entrar no Java Edition](/wiki/comece-aqui/como-entrar-no-servidor/como-entrar-no-java-edition).
 
 ### Como faço o cadastro da minha conta não oficial?
 
@@ -32,13 +33,13 @@ Se você estiver utilizando uma conta não oficial, o **nickname escolhido pode 
 
 ### O que devo fazer assim que entrar no Survival?
 
-Comece com `/kit diário`. Depois, utilize `/mundos` para ir ao **Mundo de Recursos**, explorar e reunir itens que podem ser vendidos pela `/loja`. Com os primeiros coins, você pode ir ao mundo principal, **proteger um terreno** e adquirir seus primeiros spawners. Veja [Primeiros passos no Survival](primeiros-passos-no-survival.md).
+Comece com `/kit diário`. Depois, utilize `/mundos` para ir ao **Mundo de Recursos**, explorar e reunir itens que podem ser vendidos pela `/loja`. Com os primeiros coins, você pode ir ao mundo principal, **proteger um terreno** e adquirir seus primeiros spawners. Veja [Primeiros passos no Survival](/wiki/comece-aqui/primeiros-passos-no-survival).
 
 ## Economia, Cash e recompensas
 
 ### Como ganhar coins?
 
-Você pode **vender itens na `/loja`**, negociar recursos com outros jogadores pelos sistemas permitidos, completar missões e conquistar boas colocações nas ligas. Consulte [Como ganhar dinheiro](../guias-e-tutoriais/como-ganhar-dinheiro.md).
+Você pode **vender itens na `/loja`**, negociar recursos com outros jogadores pelos sistemas permitidos, completar missões e conquistar boas colocações nas ligas. Consulte [Como ganhar dinheiro](/wiki/guias-e-tutoriais/como-ganhar-dinheiro).
 
 ### Como funciona a loja do servidor?
 
@@ -46,7 +47,7 @@ O comando `/loja` abre a loja interna, onde você pode consultar itens disponív
 
 ### Qual é a diferença entre coins e Cash?
 
-**Coins** são usados na economia do Survival, como compras, vendas, negociações e expansão de terrenos. **Cash** é a moeda premium utilizada em conteúdos e melhorias, como VIPs, cosméticos, passes, chaves, homes adicionais e redefinição de habilidades. Veja [Cash](../sistemas-do-servidor/cash.md).
+**Coins** são usados na economia do Survival, como compras, vendas, negociações e expansão de terrenos. **Cash** é a moeda premium utilizada em conteúdos e melhorias, como VIPs, cosméticos, passes, chaves, homes adicionais e redefinição de habilidades. Veja [Cash](/wiki/sistemas-do-servidor/cash).
 
 ### Como conseguir Cash sem comprar?
 
@@ -54,7 +55,7 @@ O comando `/loja` abre a loja interna, onde você pode consultar itens disponív
 
 ### Posso trocar coins ou itens por VIP ou Cash de outro jogador?
 
-**Não.** É proibido negociar Cash entre jogadores ou trocar coins e itens por VIPs, Cash e outros produtos oficiais. Também são proibidas negociações com PIX, dinheiro real, gift cards ou pagamentos externos. Leia as [Regras e Políticas do DropMC](../regras-do-servidor/regras-e-politicas-do-dropmc.md).
+**Não.** É proibido negociar Cash entre jogadores ou trocar coins e itens por VIPs, Cash e outros produtos oficiais. Também são proibidas negociações com PIX, dinheiro real, gift cards ou pagamentos externos. Leia as [Regras e Políticas do DropMC](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc).
 
 ### Como conseguir chaves de caixas?
 
@@ -62,17 +63,17 @@ Uma das maneiras é completar **missões semanais**, que podem oferecer uma **ch
 
 ### Como conseguir uma Chave End?
 
-Participe do combate contra o **Ender Dragon** e tente ficar entre os **três jogadores que mais causarem dano** para obter **Fragmentos do Fim**. Junte **16 Fragmentos do Fim** e troque-os por **1 Chave End** com o NPC localizado no End. Veja [Caixas e recompensas](../sistemas-do-servidor/caixas-e-recompensas.md).
+Participe do combate contra o **Ender Dragon** e tente ficar entre os **três jogadores que mais causarem dano** para obter **Fragmentos do Fim**. Junte **16 Fragmentos do Fim** e troque-os por **1 Chave End** com o NPC localizado no End. Veja [Caixas e recompensas](/wiki/sistemas-do-servidor/caixas-e-recompensas).
 
 ### Que outras atividades oferecem recompensas?
 
-O DropMC tem eventos no chat, como **Soletrando, Acerte a Palavra e Sorteios**, que podem conceder coins e XP de Survival. O **Passe de Batalha** também oferece prêmios por progressão, e as **ligas** premiam os melhores colocados. Confira [Como obter recompensas](../guias-e-tutoriais/como-obter-recompensas.md).
+O DropMC tem eventos no chat, como **Soletrando, Acerte a Palavra e Sorteios**, que podem conceder coins e XP de Survival. O **Passe de Batalha** também oferece prêmios por progressão, e as **ligas** premiam os melhores colocados. Confira [Como obter recompensas](/wiki/guias-e-tutoriais/como-obter-recompensas).
 
 ## Terrenos e geradores
 
 ### Como proteger minha base?
 
-Utilize `/kit terreno` para obter a pá de proteção, selecione dois pontos da área com os botões direito e esquerdo do mouse e confirme com `/terreno criar` ou **F** enquanto segura a pá. Veja [Como proteger seu terreno](../guias-e-tutoriais/como-proteger-seu-terreno.md).
+Utilize `/kit terreno` para obter a pá de proteção, selecione dois pontos da área com os botões direito e esquerdo do mouse e confirme com `/terreno criar` ou **F** enquanto segura a pá. Veja [Como proteger seu terreno](/wiki/guias-e-tutoriais/como-proteger-seu-terreno).
 
 ### Como aumentar a área do terreno?
 
@@ -84,21 +85,21 @@ Você pode utilizar **papéis de Upgrade de Terreno** obtidos em kits VIP ou com
 
 ### Quantos spawners posso ter?
 
-O limite inicial é de **20 spawners por jogador**. Com a habilidade **Domínio de Geradores**, da árvore de Caçador, ele aumenta progressivamente até **100**. Geradores instalados no terreno de um amigo contam para o limite de ambos. Confira [Geradores de monstros](../sistemas-do-servidor/geradores-de-monstros.md).
+O limite inicial é de **20 spawners por jogador**. Com a habilidade **Domínio de Geradores**, da árvore de Caçador, ele aumenta progressivamente até **100**. Geradores instalados no terreno de um amigo contam para o limite de ambos. Confira [Geradores de monstros](/wiki/sistemas-do-servidor/geradores-de-monstros).
 
 ### Por que meu spawner não está gerando mobs?
 
-Confira se ele está dentro de um terreno protegido, se os limites de geradores estão sendo respeitados e se já existe uma pilha ativa do mesmo tipo de mob naquele terreno. O holograma do gerador também pode indicar por que ele está inativo. Consulte [Como utilizar geradores](../guias-e-tutoriais/como-utilizar-geradores.md).
+Confira se ele está dentro de um terreno protegido, se os limites de geradores estão sendo respeitados e se já existe uma pilha ativa do mesmo tipo de mob naquele terreno. O holograma do gerador também pode indicar por que ele está inativo. Consulte [Como utilizar geradores](/wiki/guias-e-tutoriais/como-utilizar-geradores).
 
 ## Trabalhos, missões e ligas
 
 ### Como usar o sistema de trabalhos?
 
-Digite `/trabalhos` e escolha habilidades entre **Minerador, Lenhador, Fazendeiro, Caçador e Pescador**. O nível máximo é **150**, com até **149 pontos de habilidade** para distribuir. A redefinição da árvore custa **200 Cash**. Veja [Como usar o sistema de trabalhos](../guias-e-tutoriais/como-usar-o-sistema-de-trabalhos.md).
+Digite `/trabalhos` e escolha habilidades entre **Minerador, Lenhador, Fazendeiro, Caçador e Pescador**. O nível máximo é **150**, com até **149 pontos de habilidade** para distribuir. A redefinição da árvore custa **200 Cash**. Veja [Como usar o sistema de trabalhos](/wiki/guias-e-tutoriais/como-usar-o-sistema-de-trabalhos).
 
 ### Como funcionam as missões?
 
-Existem missões **diárias, semanais e globais**. É preciso **aceitar a missão antes de começar** para registrar o progresso, exceto para jogadores VIP que possuem ativação automática. Elas oferecem coins e XP de Survival, entre outras recompensas. Veja [Como completar missões](../guias-e-tutoriais/como-completar-missoes.md).
+Existem missões **diárias, semanais e globais**. É preciso **aceitar a missão antes de começar** para registrar o progresso, exceto para jogadores VIP que possuem ativação automática. Elas oferecem coins e XP de Survival, entre outras recompensas. Veja [Como completar missões](/wiki/guias-e-tutoriais/como-completar-missoes).
 
 ### Preciso me inscrever nas ligas?
 
@@ -106,7 +107,7 @@ Existem missões **diárias, semanais e globais**. É preciso **aceitar a missã
 
 ### Quais são os prêmios das ligas?
 
-As ligas são **quinzenais** e premiam os três primeiros colocados com **Cash, coins e PDL (Pontos de Liga)**. Os valores dependem da categoria. Consulte a tabela em [Ligas](../sistemas-do-servidor/ligas.md).
+As ligas são **quinzenais** e premiam os três primeiros colocados com **Cash, coins e PDL (Pontos de Liga)**. Os valores dependem da categoria. Consulte a tabela em [Ligas](/wiki/sistemas-do-servidor/ligas).
 
 ## Contas, regras e segurança
 
@@ -116,11 +117,11 @@ Cada jogador pode utilizar **até três contas** no DropMC: **uma principal e du
 
 ### Posso usar mods ou deixar o personagem farmando automaticamente?
 
-Mods de desempenho, gráficos, interface e acessibilidade podem ser permitidos desde que não ofereçam vantagens indevidas. **Cheats, macros, bots e automações de ações** são proibidos, inclusive prender ou colocar peso sobre teclas para andar, atacar ou executar ações automaticamente. Consulte o [regulamento](../regras-do-servidor/regras-e-politicas-do-dropmc.md).
+Mods de desempenho, gráficos, interface e acessibilidade podem ser permitidos desde que não ofereçam vantagens indevidas. **Cheats, macros, bots e automações de ações** são proibidos, inclusive prender ou colocar peso sobre teclas para andar, atacar ou executar ações automaticamente. Consulte o [regulamento](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc).
 
 ### Onde encontro todas as regras?
 
-No [Regulamento oficial do DropMC](../regras-do-servidor/regras-e-politicas-do-dropmc.md), com regras sobre convivência, contas, economia, negociações, modificações, exploits e punições.
+No [Regulamento oficial do DropMC](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc), com regras sobre convivência, contas, economia, negociações, modificações, exploits e punições.
 
 ## Comunidade, suporte e oportunidades
 

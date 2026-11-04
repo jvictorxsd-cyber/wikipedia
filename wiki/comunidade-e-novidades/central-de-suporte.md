@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page 0xW4jaG2GCg7YzWHEVqG -->
-
-# Central de suporte
+---
+title: "Central de suporte"
+description: "Documentação oficial do DropMC"
+---
 
 A **Central de suporte** é o canal oficial para entrar em contato com a equipe do DropMC quando precisar de ajuda.
 

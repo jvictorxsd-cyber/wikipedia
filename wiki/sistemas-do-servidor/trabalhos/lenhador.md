@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page 40honN1b8H0pYkcSdE2w -->
-
-# Lenhador
+---
+title: "Lenhador"
+description: "Documentação oficial do DropMC"
+---
 
 Conheça as habilidades da categoria **Lenhador** do sistema de Trabalhos do DropMC. Os pontos podem ser distribuídos entre árvores diferentes.
 

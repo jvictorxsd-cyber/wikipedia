@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page p92Ga1M6u35jTkPFXAEn -->
-
-# Clãs
+---
+title: "Clãs"
+description: "Documentação oficial do DropMC"
+---
 
 Esta página reúne os comandos disponíveis para criar, administrar e participar de clãs no DropMC. Argumentos entre `< >` devem ser substituídos pelas informações correspondentes; argumentos entre `[ ]` são opcionais.
 
@@ -64,6 +65,6 @@ Esta página reúne os comandos disponíveis para criar, administrar e participa
 
 Para formar um grupo, use `/clan criar <tag do clã> <nome>`. Depois, convide os jogadores com `/clan convidar <jogador>`. Quem receber o convite poderá aceitá-lo com `/clan aceitar [convite]`.
 
-Cada clã pode ter até **10 integrantes**. Para ver o passo a passo, consulte [Como criar um clã](../guias-e-tutoriais/como-criar-um-cla.md).
+Cada clã pode ter até **10 integrantes**. Para ver o passo a passo, consulte [Como criar um clã](/wiki/guias-e-tutoriais/como-criar-um-cla).
 
 > Alguns comandos de administração, como transferência de liderança ou dissolução, podem exigir cargos ou permissões específicas. Use-os com atenção.

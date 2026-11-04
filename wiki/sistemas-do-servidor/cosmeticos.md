@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page keEUrvvUt6IyFM5D6zCt -->
-
-# Cosméticos
+---
+title: "Cosméticos"
+description: "Documentação oficial do DropMC"
+---
 
 Os **cosméticos do DropMC** permitem personalizar o visual do personagem com acessórios, efeitos e companheiros. Eles oferecem diferentes estilos de aparência sem alterar os equipamentos utilizados no Survival.
 
@@ -41,7 +42,7 @@ Os cosméticos podem ser conquistados ou adquiridos por diferentes meios disponi
 
 A disponibilidade de cada cosmético depende das recompensas oferecidas por esses sistemas.
 
-Alguns eventos temáticos também apresentam cosméticos especiais. Conheça, por exemplo, os itens apresentados no [Halloween 2026](../eventos-e-competicoes/eventos-tematicos/halloween-2026.md).
+Alguns eventos temáticos também apresentam cosméticos especiais. Conheça, por exemplo, os itens apresentados no [Halloween 2026](/wiki/eventos-e-competicoes/eventos-tematicos/halloween-2026).
 
 ## Comandos úteis
 
@@ -64,4 +65,4 @@ Acesse **`/cosmeticos`** para consultar as personalizações disponíveis e **`/
 
 A disponibilidade pode variar conforme a loja, as caixas, o passe de batalha ou a programação de eventos.
 
-Para informações sobre compras e dúvidas de acesso, consulte a [Central de suporte](../comunidade-e-novidades/central-de-suporte.md).
+Para informações sobre compras e dúvidas de acesso, consulte a [Central de suporte](/wiki/comunidade-e-novidades/central-de-suporte).

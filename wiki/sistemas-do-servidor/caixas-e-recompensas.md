@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page NnBHCU82sXBevAiAB5mB -->
-
-# Caixas e recompensas
+---
+title: "Caixas e recompensas"
+description: "Documentação oficial do DropMC"
+---
 
 No **DropMC**, existem diferentes maneiras de conquistar recompensas enquanto você joga Survival. Além dos prêmios obtidos em missões e competições, o servidor conta com **caixas**, **fragmentos de chaves**, **eventos no chat**, **Passe de Batalha** e **ligas**.
 
@@ -76,7 +77,7 @@ Os participantes que terminarem entre os **três primeiros colocados** recebem p
 
 As ligas acontecem em ciclos quinzenais. Para acompanhar as competições, consulte o menu com o comando: `/ligas`
 
-Para conhecer melhor as modalidades, consulte [Ligas](ligas.md).
+Para conhecer melhor as modalidades, consulte [Ligas](/wiki/sistemas-do-servidor/ligas).
 
 ## Qual atividade escolher?
 

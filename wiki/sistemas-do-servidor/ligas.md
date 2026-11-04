@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page IKLGZtKzXn6OEQwaelK5 -->
-
-# Ligas
+---
+title: "Ligas"
+description: "Documentação oficial do DropMC"
+---
 
 As **ligas** são competições **quinzenais** do DropMC que premiam os jogadores com melhor desempenho em diferentes atividades do Survival. Atualmente, são **21 ligas**, com objetivos variados: mineração, construção, agricultura, combate, exploração, pesca e outras formas de participação.
 
@@ -82,4 +83,4 @@ Não. Há três faixas de premiação, apresentadas nas tabelas desta página. T
 
 Consulte o menu `/ligas` dentro do servidor. Se os valores forem alterados em uma atualização, as informações exibidas no jogo prevalecem.
 
-Para aprender a participar, visite [Como participar das ligas](../guias-e-tutoriais/como-participar-das-ligas.md). Se precisar de ajuda, procure a equipe no [Discord oficial](https://discord.gg/dropmc).
+Para aprender a participar, visite [Como participar das ligas](/wiki/guias-e-tutoriais/como-participar-das-ligas). Se precisar de ajuda, procure a equipe no [Discord oficial](https://discord.gg/dropmc).

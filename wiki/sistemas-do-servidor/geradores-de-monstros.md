@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page fOqTrAhSIDvtdKwV6zg4 -->
-
-# Geradores de monstros
+---
+title: "Geradores de monstros"
+description: "Documentação oficial do DropMC"
+---
 
 Os **geradores de monstros (spawners)** fazem parte da economia e da progressão do DropMC. Eles permitem gerar mobs para obter **itens e experiência**, organizar farms e desenvolver suas atividades no Survival.
 
@@ -74,6 +75,6 @@ Quando o armazenamento está ativado, você pode abrir o menu do spawner e utili
 
 ## Continue aprendendo
 
-Veja o tutorial [Como utilizar geradores](../guias-e-tutoriais/como-utilizar-geradores.md) e a documentação de [Caçador](trabalhos/cacador.md), que contém as demais habilidades da profissão.
+Veja o tutorial [Como utilizar geradores](/wiki/guias-e-tutoriais/como-utilizar-geradores) e a documentação de [Caçador](/wiki/sistemas-do-servidor/trabalhos/cacador), que contém as demais habilidades da profissão.
 
 Se encontrar uma pilha inativa, confira o holograma, o limite de spawners e a proteção do terreno antes de procurar ajuda no [Discord oficial](https://discord.gg/dropmc).

@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page HciTWJKlBIeL4OADEOHa -->
-
-# Visão geral dos eventos
+---
+title: "Visão geral dos eventos"
+description: "Documentação oficial do DropMC"
+---
 
 Os eventos do DropMC são organizados em **três modalidades principais**. Cada uma oferece uma experiência diferente: atividades de curta duração no chat, temporadas especiais ou competições com rankings.
 
@@ -20,7 +21,7 @@ O DropMC possui **oito modalidades**: **Complete a mensagem, Palavra embaralhada
 
 Em sete delas, basta responder ao desafio no chat. **O primeiro jogador a escrever a resposta correta vence.** No **Sorteio**, a participação é feita pelo comando `/sorteio entrar`, e o vencedor é escolhido por sorteio.
 
-As rodadas podem distribuir **coins e XP**. Consulte [Eventos recorrentes](eventos-recorrentes.md) para conhecer cada desafio.
+As rodadas podem distribuir **coins e XP**. Consulte [Eventos recorrentes](/wiki/eventos-e-competicoes/eventos-recorrentes) para conhecer cada desafio.
 
 ## Eventos temáticos: temporadas especiais
 
@@ -38,7 +39,7 @@ O Halloween 2026 foi realizado de **18 de outubro a 17 de novembro de 2026** e c
 * **Doces:** moeda da temporada, utilizada para trocas no NPC do spawn;
 * **Caixa Halloween, VIP e cosméticos temáticos:** recompensas especiais do período.
 
-Confira os detalhes em [Halloween 2026](eventos-tematicos/halloween-2026.md) ou acesse a categoria [Eventos temáticos](eventos-tematicos.md).
+Confira os detalhes em [Halloween 2026](/wiki/eventos-e-competicoes/eventos-tematicos/halloween-2026) ou acesse a categoria [Eventos temáticos](/wiki/eventos-e-competicoes/eventos-tematicos).
 
 ## Competições e ligas: desempenho no Survival
 
@@ -48,7 +49,7 @@ A participação em todas as ligas é **automática desde o primeiro login**. El
 
 Não é necessário se inscrever para começar a competir. O importante é realizar as atividades consideradas no ranking que você deseja disputar.
 
-Para conhecer as modalidades e classificações, consulte [Competições e ligas](competicoes-e-ligas.md) e a página do sistema de [Ligas](../sistemas-do-servidor/ligas.md).
+Para conhecer as modalidades e classificações, consulte [Competições e ligas](/wiki/eventos-e-competicoes/competicoes-e-ligas) e a página do sistema de [Ligas](/wiki/sistemas-do-servidor/ligas).
 
 ## Onde acompanhar os eventos?
 

@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page Zs2I9MK7q5D1u4CvPHld -->
-
-# Como ganhar dinheiro
+---
+title: "Como ganhar dinheiro"
+description: "Documentação oficial do DropMC"
+---
 
 Os **coins** são a moeda utilizada na economia do DropMC. Com eles, você pode adquirir itens na loja, negociar com outros jogadores e ampliar a área protegida dos seus terrenos.
 
@@ -36,7 +37,7 @@ Cada missão apresenta objetivos específicos e pode oferecer coins e experiênc
 
 Confira os objetivos, acompanhe seu progresso e escolha missões que possam ser realizadas durante sua rotina de jogo.
 
-Para aprender como o sistema funciona, consulte [Como completar missões](como-completar-missoes.md).
+Para aprender como o sistema funciona, consulte [Como completar missões](/wiki/guias-e-tutoriais/como-completar-missoes).
 
 ## 3. Venda itens para outros jogadores
 
@@ -83,7 +84,7 @@ Depois de reunir dinheiro, você poderá utilizá-lo em diferentes partes do ser
 * **Negociar com jogadores:** compre itens e recursos utilizando os sistemas oficiais.
 * **Ampliar seus terrenos:** no menu de terrenos, a opção **Loja** permite comprar créditos de área em pacotes de **100, 250, 500 e 1.000 blocos²**.
 
-Para conhecer os usos da moeda em mais detalhes, consulte [Economia e moedas](../sistemas-do-servidor/economia-e-moedas.md).
+Para conhecer os usos da moeda em mais detalhes, consulte [Economia e moedas](/wiki/sistemas-do-servidor/economia-e-moedas).
 
 ## Cuidados importantes com as negociações
 
@@ -97,7 +98,7 @@ No DropMC, é permitido negociar itens e coins pelos sistemas oficiais, mas exis
 
 Sempre confira os valores e itens envolvidos antes de confirmar uma operação. Negociações fora das regras não são autorizadas, e o DropMC não se responsabiliza por acordos realizados fora das condições permitidas.
 
-Consulte as [Regras e Políticas do DropMC](../regras-do-servidor/regras-e-politicas-do-dropmc.md) para conhecer o regulamento completo.
+Consulte as [Regras e Políticas do DropMC](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc) para conhecer o regulamento completo.
 
 ***
 

@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page JM9PsQGd09cJEQe9wlpq -->
-
-# Contas alternativas
+---
+title: "Contas alternativas"
+description: "Documentação oficial do DropMC"
+---
 
 O **DropMC** permite que cada jogador utilize **até três contas**, sendo **uma conta principal e duas contas alternativas**. Esse limite se aplica a cada pessoa, independentemente de as contas serem utilizadas ao mesmo tempo ou em momentos diferentes.
 
@@ -36,6 +37,6 @@ A utilização de uma conta secundária não isenta o jogador de responsabilidad
 
 ## Regras e suporte
 
-Consulte as [Regras e Políticas do DropMC](../regras-do-servidor/regras-e-politicas-do-dropmc.md) para conhecer as condutas proibidas e as consequências previstas.
+Consulte as [Regras e Políticas do DropMC](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc) para conhecer as condutas proibidas e as consequências previstas.
 
 Se tiver dúvidas sobre os limites e responsabilidades das contas, entre em contato com a equipe pelo [Discord oficial](https://discord.gg/dropmc).

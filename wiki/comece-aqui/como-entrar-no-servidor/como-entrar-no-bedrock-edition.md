@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page 0UOlKufAOnaX6bFhh1ub -->
-
-# Como entrar no Bedrock Edition
+---
+title: "Como entrar no Bedrock Edition"
+description: "Documentação oficial do DropMC"
+---
 
 Está jogando **Minecraft Bedrock Edition** pelo celular, tablet ou computador? Nesta página, você aprende a adicionar o **DropMC** à sua lista de servidores e começar sua aventura no Survival.
 

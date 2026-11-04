@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page G258g1rCASZfzCAxTR6U -->
-
-# Terrenos e proteções
+---
+title: "Terrenos e proteções"
+description: "Documentação oficial do DropMC"
+---
 
 O sistema de **terrenos** permite proteger áreas do **mundo principal** ou do **mundo de farms** do DropMC. Com um terreno protegido, o jogador pode administrar sua área e ajustar algumas regras de funcionamento.
 

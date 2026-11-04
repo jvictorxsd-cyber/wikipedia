@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page a2mKLfgYYpz8PA9thUWU -->
-
-# Contas e segurança
+---
+title: "Contas e segurança"
+description: "Documentação oficial do DropMC"
+---
 
 Os comandos de contas e segurança permitem **cadastrar e alterar senhas, configurar a autenticação em duas etapas (OTP) e vincular ou desvincular a conta do Minecraft ao Discord**.
 
@@ -56,7 +57,7 @@ O comando `/otp ativar` também é utilizado na documentação do DropMC para in
 
 **Importante:** não compartilhe os códigos temporários nem o QR Code de configuração. Se perder o acesso ao autenticador, procure o suporte oficial para receber orientações.
 
-Para o passo a passo completo, consulte [Proteção da conta](../contas-e-seguranca/protecao-da-conta.md).
+Para o passo a passo completo, consulte [Proteção da conta](/wiki/contas-e-seguranca/protecao-da-conta).
 
 ## Vinculação ao Discord
 
@@ -83,4 +84,4 @@ Para remover a associação existente entre sua conta do Minecraft e o Discord, 
 
 Caso enfrente problemas com senhas, OTP, vinculação ou acesso à conta, entre em contato com a equipe por meio de um ticket no [Discord oficial do DropMC](https://discord.gg/dropmc).
 
-Acesse também a [Central de suporte](../comunidade-e-novidades/central-de-suporte.md) ou consulte a página [Proteção da conta](../contas-e-seguranca/protecao-da-conta.md) para mais orientações.
+Acesse também a [Central de suporte](/wiki/comunidade-e-novidades/central-de-suporte) ou consulte a página [Proteção da conta](/wiki/contas-e-seguranca/protecao-da-conta) para mais orientações.

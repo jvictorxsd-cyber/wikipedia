@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page X19XQjsmlifhZS9EMmtr -->
-
-# Regras do servidor
+---
+title: "Regras do servidor"
+description: "Documentação oficial do DropMC"
+---
 
 O regulamento do DropMC estabelece as diretrizes necessárias para garantir um ambiente justo, organizado e agradável para todos os jogadores.
 
@@ -8,7 +9,7 @@ Ao participar do servidor, cada usuário é responsável por conhecer e respeita
 
 ## Regulamento oficial
 
-### [Regras e Políticas do DropMC](regras-do-servidor/regras-e-politicas-do-dropmc.md)
+### [Regras e Políticas do DropMC](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc)
 
 Consulte o regulamento completo, que aborda temas como:
 

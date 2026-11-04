@@ -1,20 +1,21 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page OadJOSpLDIbGVUte5phZ -->
-
-# Comunidade e novidades
+---
+title: "Comunidade e novidades"
+description: "Documentação oficial do DropMC"
+---
 
 A comunidade é parte essencial do DropMC. Nesta seção, você encontra os canais oficiais para **solicitar suporte, denunciar infrações e compartilhar sugestões** para o servidor.
 
 ## Como podemos ajudar?
 
-### [Central de suporte](comunidade-e-novidades/central-de-suporte.md)
+### [Central de suporte](/wiki/comunidade-e-novidades/central-de-suporte)
 
 Precisa de ajuda com alguma funcionalidade, tem dúvidas, encontrou dificuldades de conexão ou enfrenta problemas relacionados a compras? Entre em contato com a equipe por meio de um **ticket no Discord oficial**.
 
-### [Denúncias](comunidade-e-novidades/denuncias.md)
+### [Denúncias](/wiki/comunidade-e-novidades/denuncias)
 
 Encontrou algum jogador descumprindo as regras? Saiba quais informações enviar para registrar uma denúncia pelo **Discord** ou como utilizar o comando **`/report`** dentro do jogo.
 
-### [Sugestões e feedback](comunidade-e-novidades/sugestoes-e-feedback.md)
+### [Sugestões e feedback](/wiki/comunidade-e-novidades/sugestoes-e-feedback)
 
 Tem uma ideia para melhorar o DropMC? Compartilhe sua proposta no canal de sugestões do **Discord**, criando um novo tópico para que a equipe possa avaliá-la e responder.
 

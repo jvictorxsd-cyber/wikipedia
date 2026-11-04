@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page iMyhBplqmHDgUID3o5AL -->
-
-# Terrenos e proteções
+---
+title: "Terrenos e proteções"
+description: "Documentação oficial do DropMC"
+---
 
 Nesta página você encontra os comandos para jogadores exibidos na ajuda do sistema de terrenos do DropMC, conforme as capturas de tela do jogo.
 
@@ -44,4 +45,4 @@ Para começar, utilize `/kit terreno` para obter a pá de proteção. Marque um 
 
 ## Administração de terrenos
 
-Os comandos de convite, banimento, saída, edição, exclusão e definição de home aparecem na ajuda do plugin. Utilize a página [**Sistemas do servidor → Terrenos e proteções**](../sistemas-do-servidor/terrenos-e-protecoes.md) para conhecer as opções de proteção e expansão de área.
+Os comandos de convite, banimento, saída, edição, exclusão e definição de home aparecem na ajuda do plugin. Utilize a página [**Sistemas do servidor → Terrenos e proteções**](/wiki/sistemas-do-servidor/terrenos-e-protecoes) para conhecer as opções de proteção e expansão de área.

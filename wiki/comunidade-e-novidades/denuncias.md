@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page eIgyLOILuHwN7TjINoz8 -->
-
-# Denúncias
+---
+title: "Denúncias"
+description: "Documentação oficial do DropMC"
+---
 
 O DropMC disponibiliza canais para que os jogadores possam **reportar possíveis infrações às regras do servidor**. As denúncias auxiliam a equipe a identificar e analisar comportamentos inadequados.
 
@@ -33,6 +34,6 @@ Esse comando permite registrar uma denúncia **diretamente no DropMC**. Siga as 
 
 As denúncias são encaminhadas para análise da equipe do DropMC. A aplicação de eventuais punições depende da avaliação do ocorrido e das regras do servidor.
 
-Consulte também o [Regulamento do DropMC](../regras-do-servidor/regras-e-politicas-do-dropmc.md).
+Consulte também o [Regulamento do DropMC](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc).
 
 **Acesse:** [Abrir um ticket para denúncia](https://discord.com/channels/1514685099143073972/1523494323302305842).

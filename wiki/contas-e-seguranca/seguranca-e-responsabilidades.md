@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page igdmj4mKVCJR4XcSSe34 -->
-
-# Segurança e responsabilidades
+---
+title: "Segurança e responsabilidades"
+description: "Documentação oficial do DropMC"
+---
 
 A segurança das contas é fundamental para manter um ambiente confiável no DropMC. Embora o servidor disponibilize mecanismos de proteção, cada jogador também possui responsabilidades relacionadas à preservação de suas informações e à utilização de suas contas.
 
@@ -34,7 +35,7 @@ Ao acessar o servidor, o usuário deve estar ciente das diretrizes estabelecidas
 
 **3.4.** O uso de contas alternativas está sujeito aos limites e às condições estabelecidos pelo DropMC. Infrações cometidas por meio dessas contas poderão resultar em penalidades aplicadas também à conta principal.
 
-Para conhecer os limites e as condições de utilização, consulte a página [Contas alternativas](contas-alternativas.md).
+Para conhecer os limites e as condições de utilização, consulte a página [Contas alternativas](/wiki/contas-e-seguranca/contas-alternativas).
 
 ## 4. Transferência e negociação de contas
 
@@ -67,7 +68,7 @@ Para reduzir os riscos de acesso indevido, recomendamos que todos os jogadores:
 * Evitem links, arquivos ou programas de origem desconhecida;
 * Entrem em contato com a equipe caso identifiquem alguma atividade suspeita.
 
-As orientações para configurar esses recursos estão disponíveis na página [Proteção da conta](protecao-da-conta.md).
+As orientações para configurar esses recursos estão disponíveis na página [Proteção da conta](/wiki/contas-e-seguranca/protecao-da-conta).
 
 ***
 

@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page kLd3W4Ur2A2nzA9qPO9v -->
-
-# Boas-vindas ao DropMC
+---
+title: "Boas-vindas ao DropMC"
+description: "Documentação oficial do DropMC"
+---
 
 A **Wiki - DropMC** é o espaço oficial de informações do nosso servidor Survival de Minecraft. Seja você um jogador que está começando agora ou alguém que já conhece cada canto do mundo, aqui encontrará orientações para aproveitar melhor a experiência, conhecer nossos sistemas e tirar suas dúvidas.
 
@@ -32,13 +33,13 @@ Nosso objetivo é oferecer uma experiência divertida e organizada, na qual voc�
 
 ## 📚 O que você encontra nesta Wikipédia?
 
-* [**Primeiros passos e tutoriais**](../guias-e-tutoriais.md)**:** aprenda a começar, proteger seus terrenos e evoluir no Survival.
-* [**Sistemas do servidor**](../sistemas-do-servidor.md)**:** conheça economia, Cash, caixas, cosméticos, trabalhos, missões, geradores de monstros e ligas.
-* [**Comandos**](../comandos.md)**:** encontre instruções para utilizar as funcionalidades disponíveis.
-* [**Contas e segurança**](../contas-e-seguranca.md)**:** consulte informações sobre proteção, recuperação e responsabilidade pelas contas.
-* [**Eventos e competições**](../eventos-e-competicoes.md)**:** entenda as atividades competitivas e suas recompensas.
-* [**Regras e políticas**](../regras-do-servidor/regras-e-politicas-do-dropmc.md)**:** conheça as diretrizes para manter uma experiência justa e respeitosa.
-* [**Comunidade e novidades**](../comunidade-e-novidades.md)**:** acompanhe atualizações e saiba como enviar sugestões ou solicitar ajuda.
+* [**Primeiros passos e tutoriais**](/wiki/guias-e-tutoriais)**:** aprenda a começar, proteger seus terrenos e evoluir no Survival.
+* [**Sistemas do servidor**](/wiki/sistemas-do-servidor)**:** conheça economia, Cash, caixas, cosméticos, trabalhos, missões, geradores de monstros e ligas.
+* [**Comandos**](/wiki/comandos)**:** encontre instruções para utilizar as funcionalidades disponíveis.
+* [**Contas e segurança**](/wiki/contas-e-seguranca)**:** consulte informações sobre proteção, recuperação e responsabilidade pelas contas.
+* [**Eventos e competições**](/wiki/eventos-e-competicoes)**:** entenda as atividades competitivas e suas recompensas.
+* [**Regras e políticas**](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc)**:** conheça as diretrizes para manter uma experiência justa e respeitosa.
+* [**Comunidade e novidades**](/wiki/comunidade-e-novidades)**:** acompanhe atualizações e saiba como enviar sugestões ou solicitar ajuda.
 
 ***
 

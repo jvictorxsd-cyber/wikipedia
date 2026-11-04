@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page DSHvLGVDRiSl6AVPHs0M -->
-
-# Primeiros passos no Survival
+---
+title: "Primeiros passos no Survival"
+description: "Documentação oficial do DropMC"
+---
 
 Acabou de entrar no **DropMC** e não sabe por onde começar? Neste guia, você encontrará um caminho simples para conquistar seus primeiros recursos, conseguir **coins** e começar a desenvolver sua própria farm de geradores de monstros.
 
@@ -50,7 +51,7 @@ Antes de colocar qualquer spawner, **proteja o terreno**:
 
 **Importante:** no DropMC, os spawners precisam estar dentro de um terreno protegido para funcionar.
 
-Saiba mais no guia [Como proteger seu terreno](../guias-e-tutoriais/como-proteger-seu-terreno.md).
+Saiba mais no guia [Como proteger seu terreno](/wiki/guias-e-tutoriais/como-proteger-seu-terreno).
 
 ## 5. Compre seus primeiros spawners
 
@@ -70,7 +71,7 @@ No menu do gerador, você pode configurar se os itens ficam **armazenados dentro
 
 Confira os itens obtidos e venda os que forem aceitos pela `/loja` para continuar juntando coins. Com o tempo, você poderá reinvestir seus ganhos em novos geradores, materiais e melhorias para sua base.
 
-Para entender as regras de funcionamento, limites e pilhas de mobs, consulte [Como utilizar geradores](../guias-e-tutoriais/como-utilizar-geradores.md).
+Para entender as regras de funcionamento, limites e pilhas de mobs, consulte [Como utilizar geradores](/wiki/guias-e-tutoriais/como-utilizar-geradores).
 
 ## E depois?
 
@@ -82,7 +83,7 @@ Esses são os primeiros passos recomendados para começar sua evolução econôm
 * **Construção e terrenos:** amplie a proteção e desenvolva sua base.
 * **Caixas e recompensas:** conquiste chaves, itens e outros prêmios disponíveis no servidor.
 
-Se quiser conhecer outras formas de conseguir coins, acesse [Como ganhar dinheiro](../guias-e-tutoriais/como-ganhar-dinheiro.md).
+Se quiser conhecer outras formas de conseguir coins, acesse [Como ganhar dinheiro](/wiki/guias-e-tutoriais/como-ganhar-dinheiro).
 
 ## Precisa de ajuda?
 

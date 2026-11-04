@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page t5yILxRIhhU4jDrIGwlx -->
-
-# Regras e Políticas do DropMC
+---
+title: "Regras e Políticas do DropMC"
+description: "Documentação oficial do DropMC"
+---
 
 **Última atualização do regulamento: 3 de novembro de 2026.**
 

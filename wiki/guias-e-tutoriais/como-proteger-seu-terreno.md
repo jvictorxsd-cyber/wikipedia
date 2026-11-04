@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page cQjr2SydpHRr7XAjvnJz -->
-
-# Como proteger seu terreno
+---
+title: "Como proteger seu terreno"
+description: "Documentação oficial do DropMC"
+---
 
 No DropMC, você pode **proteger suas construções, baús e recursos** criando um terreno com a pá de proteção. O sistema está disponível tanto no **mundo principal** quanto no **mundo de farms**.
 
@@ -60,7 +61,7 @@ Depois de criar o terreno, você também pode ajustar algumas opções, como:
 
 Para consultar os demais recursos, permissões e comandos, acesse:
 
-* [Terrenos e proteções](../sistemas-do-servidor/terrenos-e-protecoes.md) — explicação completa do sistema.
-* [Comandos de terrenos e proteções](../comandos/terrenos-e-protecoes.md) — lista de comandos disponíveis aos jogadores.
+* [Terrenos e proteções](/wiki/sistemas-do-servidor/terrenos-e-protecoes) — explicação completa do sistema.
+* [Comandos de terrenos e proteções](/wiki/comandos/terrenos-e-protecoes) — lista de comandos disponíveis aos jogadores.
 
 Se tiver dificuldades, procure a equipe no [Discord oficial do DropMC](https://discord.gg/dropmc).

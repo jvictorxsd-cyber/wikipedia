@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page xPp3yPVyCtrFHLaZwWRj -->
-
-# Recuperação de conta
+---
+title: "Recuperação de conta"
+description: "Documentação oficial do DropMC"
+---
 
 Se você perdeu a senha de acesso à sua conta no DropMC, poderá solicitar orientações à equipe por meio de um **ticket no Discord oficial**.
 
@@ -36,7 +37,7 @@ Se ainda possui acesso à sua conta, utilize o comando:
 
 Siga as instruções exibidas no jogo para concluir a associação. Essa medida deve ser realizada preferencialmente **antes de surgir qualquer problema de acesso**.
 
-Para saber mais sobre autenticação e proteção, consulte [Proteção da conta](protecao-da-conta.md).
+Para saber mais sobre autenticação e proteção, consulte [Proteção da conta](/wiki/contas-e-seguranca/protecao-da-conta).
 
 ## Precisa de atendimento?
 

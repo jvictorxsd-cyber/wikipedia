@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page FnPdODRYLKLCuTlpo5wz -->
-
-# Comandos gerais
+---
+title: "Comandos gerais"
+description: "Documentação oficial do DropMC"
+---
 
 Esta página reúne os principais comandos disponíveis no **DropMC**, separados por função para facilitar a consulta. Argumentos entre `< >` representam informações que você deve substituir; os que aparecem entre `[ ]` são opcionais.
 

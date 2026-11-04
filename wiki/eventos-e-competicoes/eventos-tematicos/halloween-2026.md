@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page 6gBrXshgHbXT8RZnAzb5 -->
-
-# Halloween 2026
+---
+title: "Halloween 2026"
+description: "Documentação oficial do DropMC"
+---
 
 O **Halloween 2026** foi realizado no DropMC entre **18 de outubro e 17 de novembro de 2026**, reunindo atividades especiais, uma caixa temática, cosméticos, equipamentos e itens exclusivos da temporada.
 

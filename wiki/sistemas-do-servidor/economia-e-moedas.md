@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page eVBi0swpaxgCpJflX4Qp -->
-
-# Economia e moedas
+---
+title: "Economia e moedas"
+description: "Documentação oficial do DropMC"
+---
 
 A economia do **DropMC** é uma parte importante da progressão no Survival. Com os **coins**, a moeda utilizada nas atividades econômicas do servidor, você pode comprar recursos, negociar com outros jogadores e investir no desenvolvimento de seus terrenos.
 
@@ -22,7 +23,7 @@ O DropMC possui **missões diárias, semanais e globais** que permitem obter coi
 
 Lembre-se de ativar as missões antes de tentar completá-las, salvo quando houver ativação automática pelo benefício VIP.
 
-Saiba mais na página de [Missões](missoes.md).
+Saiba mais na página de [Missões](/wiki/sistemas-do-servidor/missoes).
 
 ### Participando das ligas
 
@@ -67,7 +68,7 @@ No **menu de terrenos**, a opção **Loja** oferece créditos de área nos segui
 
 Os créditos de área são vinculados à sua conta e podem ser utilizados na expansão dos seus terrenos, conforme as regras do sistema.
 
-Para saber mais, consulte [Terrenos e proteções](terrenos-e-protecoes.md).
+Para saber mais, consulte [Terrenos e proteções](/wiki/sistemas-do-servidor/terrenos-e-protecoes).
 
 ## Coins e Cash: qual é a diferença?
 
@@ -75,7 +76,7 @@ Para saber mais, consulte [Terrenos e proteções](terrenos-e-protecoes.md).
 
 **Cash** é a moeda premium do DropMC, destinada a conteúdos e benefícios específicos. Ela possui formas próprias de obtenção e utilização, incluindo a loja oficial e recompensas de progressão.
 
-As duas moedas possuem finalidades diferentes. Para conhecer os usos do Cash, consulte a página [Cash](cash.md).
+As duas moedas possuem finalidades diferentes. Para conhecer os usos do Cash, consulte a página [Cash](/wiki/sistemas-do-servidor/cash).
 
 ## Regras importantes da economia
 
@@ -88,7 +89,7 @@ Para preservar uma economia organizada e justa, todas as negociações devem seg
 
 Negociações que contrariem essas regras não são autorizadas, e o DropMC não se responsabiliza por acordos realizados fora dos sistemas e condições permitidos.
 
-Confira as [Regras e Políticas do DropMC](../regras-do-servidor/regras-e-politicas-do-dropmc.md) para conhecer o regulamento completo.
+Confira as [Regras e Políticas do DropMC](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc) para conhecer o regulamento completo.
 
 ## Dicas para começar
 

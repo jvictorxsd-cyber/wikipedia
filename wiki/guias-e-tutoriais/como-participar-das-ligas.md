@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page tnbU9gL8OhHUBszWcYJP -->
-
-# Como participar das ligas
+---
+title: "Como participar das ligas"
+description: "Documentação oficial do DropMC"
+---
 
 As **21 ligas do DropMC** são competições quinzenais que classificam jogadores por atividades realizadas no Survival. **Você já participa automaticamente de todas elas desde o primeiro login**, sem inscrição ou ativação. Os **três melhores colocados** de cada categoria recebem **Cash, coins e PDL**.
 
@@ -18,7 +19,7 @@ Digite `/ligas` ou utilize o **bandeirão no lobby** para visualizar as categori
 
 Você não precisa selecionar uma liga para participar. **Cada liga acompanha uma atividade específica**, e o progresso nessa atividade conta para seu ranking. Algumas envolvem atividades como **minerar, colher plantações, pescar, construir ou enfrentar monstros**; outras acompanham ações como **abrir caixas, negociar com aldeões, ganhar XP ou permanecer online**.
 
-**São 21 ligas ao todo.** Para consultar **o nome, o objetivo, o mundo válido e o prêmio de cada uma**, acesse [Ligas](../sistemas-do-servidor/ligas.md), onde há uma tabela completa.
+**São 21 ligas ao todo.** Para consultar **o nome, o objetivo, o mundo válido e o prêmio de cada uma**, acesse [Ligas](/wiki/sistemas-do-servidor/ligas), onde há uma tabela completa.
 
 ### 4. Confira as regras de contagem
 
@@ -38,7 +39,7 @@ Participe da atividade correspondente e consulte sua posição em `/ligas`, util
 
 Ao final do ciclo quinzenal, o **Top 3** de cada liga recebe as recompensas indicadas no menu. Os prêmios variam de acordo com a categoria e incluem **Cash, coins e PDL**.
 
-A página de [Ligas](../sistemas-do-servidor/ligas.md) reúne os valores de **1º, 2º e 3º lugar** para todas as categorias.
+A página de [Ligas](/wiki/sistemas-do-servidor/ligas) reúne os valores de **1º, 2º e 3º lugar** para todas as categorias.
 
 ## Dicas
 

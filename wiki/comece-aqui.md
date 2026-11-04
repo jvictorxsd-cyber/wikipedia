@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page kxcgRVX7ko4iHjdQQOi6 -->
-
-# Comece aqui
+---
+title: "Comece aqui"
+description: "Documentação oficial do DropMC"
+---
 
 **Boas-vindas ao DropMC!** Esta é a sua central de primeiros passos na Wikipédia oficial do servidor. Reunimos os caminhos mais importantes para você começar a jogar, entender os sistemas do Survival e encontrar ajuda sempre que precisar.
 
@@ -19,7 +20,7 @@ O DropMC está disponível para **Minecraft Java Edition e Bedrock Edition**.
 
 Ainda não sabe como entrar ou está com alguma dificuldade? No nosso guia você encontra o passo a passo para as duas edições, incluindo orientações sobre instalação, conexão e cadastro de contas não oficiais no Java.
 
-➡️ [**Como entrar no servidor**](comece-aqui/como-entrar-no-servidor.md)
+➡️ [**Como entrar no servidor**](/wiki/comece-aqui/como-entrar-no-servidor)
 
 ## 📝 Saiba o que é permitido e o que não pode ser feito
 
@@ -27,7 +28,7 @@ Antes de começar sua jornada, vale conhecer as regras de convivência, contas, 
 
 O regulamento também explica como funcionam as denúncias, as punições e os pedidos de revisão. **Todos os jogadores devem respeitar as regras, independentemente do tempo de jogo ou de benefícios adquiridos.**
 
-➡️ [**Regras e Políticas do DropMC**](regras-do-servidor/regras-e-politicas-do-dropmc.md)
+➡️ [**Regras e Políticas do DropMC**](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc)
 
 ## ⛏️ Conheça os principais sistemas do servidor
 
@@ -41,9 +42,9 @@ O Survival do DropMC vai além de explorar e construir. Descubra alguns dos sist
 * **Cosméticos e pets:** personalize sua experiência.
 * **Ligas:** participe de competições e dispute premiações.
 
-➡️ [**Explorar os sistemas do servidor**](sistemas-do-servidor.md)
+➡️ [**Explorar os sistemas do servidor**](/wiki/sistemas-do-servidor)
 
-Para aprender na prática, visite também nossos [**Guias e tutoriais**](guias-e-tutoriais.md).
+Para aprender na prática, visite também nossos [**Guias e tutoriais**](/wiki/guias-e-tutoriais).
 
 ## 💬 Entre em contato com a equipe
 
@@ -75,11 +76,11 @@ Quer apoiar o servidor? Na **loja oficial**, você encontra os produtos e benef�
 
 Além dos atalhos acima, você pode consultar:
 
-* [**Primeiros passos no Survival**](comece-aqui/primeiros-passos-no-survival.md) — orientações para começar sua jornada.
-* [**Comandos do servidor**](comandos.md) — encontre os comandos das funcionalidades disponíveis.
-* [**Contas e segurança**](contas-e-seguranca.md) — proteja seu acesso e entenda suas responsabilidades.
-* [**Eventos e competições**](eventos-e-competicoes.md) — descubra as atividades competitivas.
-* [**Comunidade e novidades**](comunidade-e-novidades.md) — acompanhe atualizações e saiba como participar.
+* [**Primeiros passos no Survival**](/wiki/comece-aqui/primeiros-passos-no-survival) — orientações para começar sua jornada.
+* [**Comandos do servidor**](/wiki/comandos) — encontre os comandos das funcionalidades disponíveis.
+* [**Contas e segurança**](/wiki/contas-e-seguranca) — proteja seu acesso e entenda suas responsabilidades.
+* [**Eventos e competições**](/wiki/eventos-e-competicoes) — descubra as atividades competitivas.
+* [**Comunidade e novidades**](/wiki/comunidade-e-novidades) — acompanhe atualizações e saiba como participar.
 
 ***
 

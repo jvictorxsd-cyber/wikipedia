@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page wJstupAoUAiVACLoTLK4 -->
-
-# Proteção da conta
+---
+title: "Proteção da conta"
+description: "Documentação oficial do DropMC"
+---
 
 A segurança da sua conta é fundamental para proteger seu progresso, construções e itens no **DropMC**. O servidor oferece recursos adicionais de proteção, como **autenticação em duas etapas (OTP)**, cadastro obrigatório de senha para contas não oficiais, com opção adicional para contas originais e Bedrock e **vinculação da conta do Minecraft ao Discord**.
 
@@ -79,4 +80,4 @@ Para obter ajuda com a vinculação, procure a equipe no [Discord oficial do Dro
 
 Se você estiver com dificuldades para ativar o OTP, criar uma senha ou vincular o Discord, entre no [Discord oficial do DropMC](https://discord.gg/dropmc) e procure os canais de suporte.
 
-Para dúvidas sobre perda de acesso, consulte também [Recuperação de conta](recuperacao-de-conta.md).
+Para dúvidas sobre perda de acesso, consulte também [Recuperação de conta](/wiki/contas-e-seguranca/recuperacao-de-conta).

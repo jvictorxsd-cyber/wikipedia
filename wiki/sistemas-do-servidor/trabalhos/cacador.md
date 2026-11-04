@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page nL3prr96g0DV1vzJVU25 -->
-
-# Caçador
+---
+title: "Caçador"
+description: "Documentação oficial do DropMC"
+---
 
 Conheça as habilidades da categoria **Caçador** do sistema de Trabalhos do DropMC. Os pontos podem ser distribuídos entre árvores diferentes.
 
@@ -82,4 +83,4 @@ Esta habilidade aumenta o número máximo de spawners que você pode possuir e u
 
 **Importante:** esta é a única forma de ampliar o limite de spawners. A expansão não pode ser comprada com coins ou Cash. Os custos específicos em pontos de cada nível devem ser consultados na árvore de habilidades do jogo.
 
-Consulte também [Geradores de monstros](../geradores-de-monstros.md) para conhecer as regras de funcionamento e de limites por terreno.
+Consulte também [Geradores de monstros](/wiki/sistemas-do-servidor/geradores-de-monstros) para conhecer as regras de funcionamento e de limites por terreno.

@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page Z8Lhd0Wk9kjerDa6FCGL -->
-
-# Missões
+---
+title: "Missões"
+description: "Documentação oficial do DropMC"
+---
 
 No DropMC, o sistema de **missões** oferece objetivos contínuos para jogadores do Survival. As missões são divididas em três tipos, cada um com seu ritmo e proposta.
 

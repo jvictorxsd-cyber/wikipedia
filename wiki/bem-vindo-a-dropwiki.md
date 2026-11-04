@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page c115c685925ecf5ef4d655a99b6fe8d334979cfd -->
-
-# Bem-vindo à DropWiki
+---
+title: "Bem-vindo à DropWiki"
+description: "Documentação oficial do DropMC"
+---
 
 A **DropWiki** é o espaço oficial de informações do nosso servidor Survival de Minecraft. Seja você um jogador que está começando agora ou alguém que já conhece cada canto do mundo, aqui encontrará orientações para aproveitar melhor a experiência, conhecer nossos sistemas e tirar suas dúvidas.
 

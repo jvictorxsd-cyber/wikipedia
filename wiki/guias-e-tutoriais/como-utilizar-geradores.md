@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page Sh36B7SeccxsPuM35hNR -->
-
-# Como utilizar geradores
+---
+title: "Como utilizar geradores"
+description: "Documentação oficial do DropMC"
+---
 
 Os **spawners** permitem organizar farms para obter drops e experiência no Survival do DropMC. Neste guia, você encontrará os cuidados principais para instalar, organizar e utilizar seus geradores de acordo com as regras atuais.
 
@@ -16,7 +17,7 @@ Antes de utilizar seu spawner, verifique se ele ficará **dentro de um terreno p
 
 **Spawners fora de terrenos não funcionam.** Se você possui um gerador antigo fora de uma área protegida, proteja o local ou transfira-o para um terreno.
 
-Caso ainda não tenha uma proteção, consulte [Como proteger seu terreno](como-proteger-seu-terreno.md).
+Caso ainda não tenha uma proteção, consulte [Como proteger seu terreno](/wiki/guias-e-tutoriais/como-proteger-seu-terreno).
 
 ## Demonstração
 
@@ -77,4 +78,4 @@ Confira se:
 3. Não existe outra pilha ativa do mesmo tipo de mob no terreno.
 4. O holograma informa alguma razão para a paralisação.
 
-Para mais detalhes, consulte [Geradores de monstros](../sistemas-do-servidor/geradores-de-monstros.md). Se precisar de suporte, entre no [Discord oficial](https://discord.gg/dropmc).
+Para mais detalhes, consulte [Geradores de monstros](/wiki/sistemas-do-servidor/geradores-de-monstros). Se precisar de suporte, entre no [Discord oficial](https://discord.gg/dropmc).

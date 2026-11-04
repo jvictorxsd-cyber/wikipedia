@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page oQZ9N7Oevcgb7fg47IOm -->
-
-# Eventos recorrentes
+---
+title: "Eventos recorrentes"
+description: "Documentação oficial do DropMC"
+---
 
 Os **eventos recorrentes do DropMC** são desafios realizados diretamente pelo chat do Minecraft. Atualmente, são **oito modalidades** que oferecem oportunidades de conquistar recompensas durante o Survival.
 
@@ -54,4 +55,4 @@ Os eventos recorrentes podem conceder **coins e XP**, de acordo com a recompensa
 
 ## Outros tipos de eventos
 
-Os [Eventos temáticos](eventos-tematicos.md), como o Halloween 2026, possuem atividades próprias da temporada. As [Competições e ligas](competicoes-e-ligas.md) contam com rankings de atividades do Survival e não fazem parte dos oito eventos recorrentes de chat.
+Os [Eventos temáticos](/wiki/eventos-e-competicoes/eventos-tematicos), como o Halloween 2026, possuem atividades próprias da temporada. As [Competições e ligas](/wiki/eventos-e-competicoes/competicoes-e-ligas) contam com rankings de atividades do Survival e não fazem parte dos oito eventos recorrentes de chat.

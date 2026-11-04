@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page bHq0Ie4opxZwYKfyjh0F -->
-
-# Clãs
+---
+title: "Clãs"
+description: "Documentação oficial do DropMC"
+---
 
 Os **clãs** permitem que jogadores do DropMC formem equipes para compartilhar experiências, organizar atividades e competir juntos no Survival. Seja para construir uma base com amigos ou reunir um grupo focado em competições, o sistema oferece recursos para gerenciar integrantes, criar uma identidade própria e fortalecer a colaboração.
 
@@ -27,7 +28,7 @@ A **cor cinza** e as **8 bandeiras padrão** podem ser escolhidas gratuitamente.
 
 Depois dessas escolhas, seu clã estará criado e pronto para receber integrantes.
 
-Para acompanhar todas as etapas em detalhes, consulte [Como criar um clã](../guias-e-tutoriais/como-criar-um-cla.md).
+Para acompanhar todas as etapas em detalhes, consulte [Como criar um clã](/wiki/guias-e-tutoriais/como-criar-um-cla).
 
 ## Integrantes e organização
 
@@ -68,14 +69,14 @@ Além do nome e da tag, cada clã pode possuir uma identidade visual própria.
 
 **Bandeiras:** o sistema oferece **8 modelos gratuitos**. Também é possível adquirir uma bandeira personalizada por **100 Cash**.
 
-A moeda premium pode ser obtida por diferentes meios no DropMC. Para saber mais, consulte a página [Cash](cash.md).
+A moeda premium pode ser obtida por diferentes meios no DropMC. Para saber mais, consulte a página [Cash](/wiki/sistemas-do-servidor/cash).
 
 ## Competições e convivência
 
 Os clãs podem reunir jogadores com objetivos casuais ou competitivos, incluindo o interesse em **eventos e ligas de clã**.
 
-Independentemente da proposta do grupo, todos os integrantes devem respeitar as [Regras e Políticas do DropMC](../regras-do-servidor/regras-e-politicas-do-dropmc.md).
+Independentemente da proposta do grupo, todos os integrantes devem respeitar as [Regras e Políticas do DropMC](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc).
 
-Para consultar a lista completa de comandos, incluindo convites, administração, alianças, rivalidades e personalização, acesse [Comandos de clãs](../comandos/clas.md).
+Para consultar a lista completa de comandos, incluindo convites, administração, alianças, rivalidades e personalização, acesse [Comandos de clãs](/wiki/comandos/clas).
 
 Se precisar de ajuda, entre em contato pelo [Discord oficial](https://discord.gg/dropmc).

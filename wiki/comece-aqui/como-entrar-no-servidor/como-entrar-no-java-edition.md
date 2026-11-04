@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page Alm61uejtP3x6kPDRug8 -->
-
-# Como entrar no Java Edition
+---
+title: "Como entrar no Java Edition"
+description: "Documentação oficial do DropMC"
+---
 
 Quer explorar o Survival do **DropMC** pelo computador? Você pode entrar usando o **Minecraft Java Edition original** ou um **launcher não oficial**. Este guia dá atenção especial aos jogadores que usam launchers alternativos, pois o DropMC possui um sistema próprio de **cadastro e login antes da entrada no servidor**.
 

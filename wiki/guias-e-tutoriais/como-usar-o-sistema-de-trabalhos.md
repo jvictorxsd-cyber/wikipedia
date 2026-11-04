@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page X3jmWg3DJdsefqHRFRV1 -->
-
-# Como usar o sistema de trabalhos
+---
+title: "Como usar o sistema de trabalhos"
+description: "Documentação oficial do DropMC"
+---
 
 No DropMC, o sistema de **Trabalhos** permite desenvolver habilidades que complementam sua experiência no Survival. Ao evoluir seu nível, você recebe pontos para investir em diferentes profissões e montar uma combinação de habilidades adequada ao seu estilo de jogo.
 
@@ -14,11 +15,11 @@ O menu apresenta as cinco categorias disponíveis e suas respectivas árvores de
 
 Cada categoria reúne habilidades relacionadas a determinadas atividades do Survival:
 
-* [**Minerador**](../sistemas-do-servidor/trabalhos/minerador.md)**:** mineração e exploração.
-* [**Lenhador**](../sistemas-do-servidor/trabalhos/lenhador.md)**:** corte de árvores e obtenção de madeira.
-* [**Fazendeiro**](../sistemas-do-servidor/trabalhos/fazendeiro.md)**:** cultivo e colheita.
-* [**Caçador**](../sistemas-do-servidor/trabalhos/cacador.md)**:** combate contra monstros.
-* [**Pescador**](../sistemas-do-servidor/trabalhos/pescador.md)**:** pesca e obtenção de recursos relacionados.
+* [**Minerador**](/wiki/sistemas-do-servidor/trabalhos/minerador)**:** mineração e exploração.
+* [**Lenhador**](/wiki/sistemas-do-servidor/trabalhos/lenhador)**:** corte de árvores e obtenção de madeira.
+* [**Fazendeiro**](/wiki/sistemas-do-servidor/trabalhos/fazendeiro)**:** cultivo e colheita.
+* [**Caçador**](/wiki/sistemas-do-servidor/trabalhos/cacador)**:** combate contra monstros.
+* [**Pescador**](/wiki/sistemas-do-servidor/trabalhos/pescador)**:** pesca e obtenção de recursos relacionados.
 
 Nas páginas de cada profissão, você encontra a descrição das habilidades, seus efeitos e os requisitos de evolução.
 
@@ -26,7 +27,7 @@ Nas páginas de cada profissão, você encontra a descrição das habilidades, s
 
 Conforme você joga e ganha **experiência de Survival**, seu nível aumenta. Entre as atividades que contribuem para a progressão estão mineração, corte de árvores, agricultura, combate, pesca e a conclusão de missões.
 
-As **missões** concedem XP de Survival, que contribui para sua evolução e para a obtenção de pontos de habilidade. Você pode aprender mais em [Como completar missões](como-completar-missoes.md).
+As **missões** concedem XP de Survival, que contribui para sua evolução e para a obtenção de pontos de habilidade. Você pode aprender mais em [Como completar missões](/wiki/guias-e-tutoriais/como-completar-missoes).
 
 ## 4. Distribua seus pontos de habilidade
 
@@ -48,7 +49,7 @@ Para conhecer as opções de compra e obter Cash, acesse:
 
 [**Comprar Cash na loja oficial do DropMC**](https://loja.dropmc.gg/category/cash)
 
-Para saber mais sobre as formas de obtenção e utilização dessa moeda, consulte também [Cash](../sistemas-do-servidor/cash.md).
+Para saber mais sobre as formas de obtenção e utilização dessa moeda, consulte também [Cash](/wiki/sistemas-do-servidor/cash).
 
 > **Importante:** confira o custo do reset e planeje sua nova distribuição antes de confirmar a redefinição.
 
@@ -59,4 +60,4 @@ Para saber mais sobre as formas de obtenção e utilização dessa moeda, consul
 * **Combine profissões.** Você não precisa concentrar todos os pontos em uma única árvore.
 * **Planeje seus pontos.** Como o total é limitado e a redefinição custa Cash, vale organizar sua progressão com antecedência.
 
-Caso tenha dúvidas, confira a página geral de [Trabalhos](../sistemas-do-servidor/trabalhos.md) ou entre no [Discord oficial do DropMC](https://discord.gg/dropmc).
+Caso tenha dúvidas, confira a página geral de [Trabalhos](/wiki/sistemas-do-servidor/trabalhos) ou entre no [Discord oficial do DropMC](https://discord.gg/dropmc).

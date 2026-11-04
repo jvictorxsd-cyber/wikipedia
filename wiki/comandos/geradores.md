@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page 8201RIiiQf31qOyQwS8F -->
-
-# Geradores
+---
+title: "Geradores"
+description: "Documentação oficial do DropMC"
+---
 
 Nesta seção estão os comandos disponíveis para gerenciar as permissões de jogadores nos **geradores de monstros (spawners)** do DropMC.
 
@@ -19,4 +20,4 @@ Nesta seção estão os comandos disponíveis para gerenciar as permissões de j
 
 Esses comandos são utilizados pelo proprietário para gerenciar os jogadores autorizados no gerador. Também é possível adicionar ou remover jogadores pelo menu de configurações do spawner, ao interagir com ele.
 
-Para consultar as permissões de quebra, coleta de drops e combate contra os mobs, acesse [Geradores de monstros](../sistemas-do-servidor/geradores-de-monstros.md).
+Para consultar as permissões de quebra, coleta de drops e combate contra os mobs, acesse [Geradores de monstros](/wiki/sistemas-do-servidor/geradores-de-monstros).

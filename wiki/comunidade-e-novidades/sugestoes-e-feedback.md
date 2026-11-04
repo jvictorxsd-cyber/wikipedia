@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page NaejZW2PbmAl1pQJqml9 -->
-
-# Sugestões e feedback
+---
+title: "Sugestões e feedback"
+description: "Documentação oficial do DropMC"
+---
 
 O DropMC valoriza a participação da comunidade e está sempre aberto a **ouvir sugestões, ideias e opiniões** que possam contribuir para a evolução do servidor.
 

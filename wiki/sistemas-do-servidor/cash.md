@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page GseQdJq5J1zGFkl2zvOT -->
-
-# Cash
+---
+title: "Cash"
+description: "Documentação oficial do DropMC"
+---
 
 O **Cash** é a **moeda premium do DropMC**. Com ela, você pode desbloquear conteúdos exclusivos, personalizar sua experiência e aproveitar ainda mais sua jornada no Survival.
 
@@ -38,13 +39,13 @@ Você também pode obter Cash **sem realizar compras**, progredindo nos níveis 
 
 Os jogadores que terminarem entre os **três primeiros colocados** de uma liga podem receber Cash como parte da premiação. Acesse o sistema pelo comando: `/ligas`
 
-Para saber mais, consulte a documentação de [Ligas](ligas.md).
+Para saber mais, consulte a documentação de [Ligas](/wiki/sistemas-do-servidor/ligas).
 
 ## Regras de negociação
 
 **Não é permitida a negociação de Cash entre jogadores.** Isso inclui trocar Cash por coins, itens ou outros recursos, bem como utilizar esses recursos para negociar VIPs e produtos oficiais do DropMC.
 
-Confira as [Regras e Políticas do DropMC](../regras-do-servidor/regras-e-politicas-do-dropmc.md) antes de realizar qualquer negociação.
+Confira as [Regras e Políticas do DropMC](/wiki/regras-do-servidor/regras-e-politicas-do-dropmc) antes de realizar qualquer negociação.
 
 ## Precisa de ajuda?
 

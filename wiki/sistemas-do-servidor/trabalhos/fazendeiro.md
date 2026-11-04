@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page mVroT7u95jn9cV2qTyNC -->
-
-# Fazendeiro
+---
+title: "Fazendeiro"
+description: "Documentação oficial do DropMC"
+---
 
 Conheça as habilidades da categoria **Fazendeiro** do sistema de Trabalhos do DropMC. Os pontos podem ser distribuídos entre árvores diferentes.
 

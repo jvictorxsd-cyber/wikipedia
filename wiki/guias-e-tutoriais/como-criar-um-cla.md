@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page ZcvI8UfE8EyaIKmUyvmJ -->
-
-# Como criar um clã
+---
+title: "Como criar um clã"
+description: "Documentação oficial do DropMC"
+---
 
 No DropMC, você pode criar um **clã** para jogar com amigos, organizar projetos e participar de atividades competitivas. Para começar, é necessário possuir **10.000 coins**.
 
@@ -8,7 +9,7 @@ No DropMC, você pode criar um **clã** para jogar com amigos, organizar projeto
 
 A criação de um clã custa **10.000 coins**. Confira se você possui esse valor antes de iniciar.
 
-Se precisar juntar moedas, consulte [Como ganhar dinheiro](como-ganhar-dinheiro.md).
+Se precisar juntar moedas, consulte [Como ganhar dinheiro](/wiki/guias-e-tutoriais/como-ganhar-dinheiro).
 
 ## 2. Digite o comando de criação
 
@@ -64,7 +65,7 @@ Alguns comandos úteis para começar são:
 | `/clan chat`               | Ativa ou desativa o modo de chat do clã. |
 | `/clan info`               | Exibe informações sobre o clã.           |
 
-Para conhecer as demais opções de administração, alianças e rivalidades, consulte a página [Clãs](../sistemas-do-servidor/clas.md) e a seção [**Comandos** ](../comandos/clas.md)da Wiki.
+Para conhecer as demais opções de administração, alianças e rivalidades, consulte a página [Clãs](/wiki/sistemas-do-servidor/clas) e a seção [**Comandos** ](/wiki/comandos/clas)da Wiki.
 
 ## Precisa de ajuda?
 

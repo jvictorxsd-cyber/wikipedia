@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page 9WmH8R4MvzRxW6eQfY1D -->
-
-# Pescador
+---
+title: "Pescador"
+description: "Documentação oficial do DropMC"
+---
 
 Conheça as habilidades da categoria **Pescador** do sistema de Trabalhos do DropMC. Os pontos podem ser distribuídos entre árvores diferentes.
 

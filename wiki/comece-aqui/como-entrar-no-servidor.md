@@ -1,6 +1,7 @@
-<!-- Exported from GitBook, revision 8HFl7L6HUH9aEjZl8Pe8, page wVvLgdCT6olJ8DlddZc8 -->
-
-# Como entrar no servidor
+---
+title: "Como entrar no servidor"
+description: "Documentação oficial do DropMC"
+---
 
 Quer começar sua aventura no **DropMC**? Você está no lugar certo! Este guia reúne tudo o que precisa saber para acessar nosso servidor Survival, tanto pelo **Minecraft Java Edition** quanto pelo **Minecraft Bedrock Edition**.
 
@@ -25,13 +26,13 @@ A conexão é simples, mas o caminho muda um pouco conforme a edição que você
 
 Joga pelo computador? O guia do **Java Edition** mostra onde adicionar o servidor na lista de multijogador e como se conectar usando o endereço do DropMC.
 
-[➡️ **Como entrar no Java Edition**](como-entrar-no-servidor/como-entrar-no-java-edition.md)
+[➡️ **Como entrar no Java Edition**](/wiki/comece-aqui/como-entrar-no-servidor/como-entrar-no-java-edition)
 
 ### 📱 Minecraft Bedrock Edition
 
 Joga pelo celular, tablet ou pela versão Bedrock? Aprenda a acessar a área de servidores, inserir o IP e configurar a porta correta.
 
-[➡️ **Como entrar no Bedrock Edition**](como-entrar-no-servidor/como-entrar-no-bedrock-edition.md)
+[➡️ **Como entrar no Bedrock Edition**](/wiki/comece-aqui/como-entrar-no-servidor/como-entrar-no-bedrock-edition)
 
 ## ✅ Antes de tentar se conectar
 

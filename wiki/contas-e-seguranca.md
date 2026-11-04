@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page HVRFbxm0j0dbCxMalzI1 -->
-
-# Contas e segurança
+---
+title: "Contas e segurança"
+description: "Documentação oficial do DropMC"
+---
 
 A segurança das contas é fundamental para proteger o progresso dos jogadores e manter um ambiente confiável no DropMC.
 
@@ -8,11 +9,11 @@ Nesta seção, você encontra orientações sobre proteção de acesso, autentic
 
 ## Proteção e acesso
 
-### [Proteção da conta](contas-e-seguranca/protecao-da-conta.md)
+### [Proteção da conta](/wiki/contas-e-seguranca/protecao-da-conta)
 
 Conheça os recursos de segurança oferecidos pelo DropMC, incluindo autenticação em duas etapas (OTP), cadastro de senha e vinculação da conta do Minecraft ao Discord.
 
-### [Recuperação de conta](contas-e-seguranca/recuperacao-de-conta.md)
+### [Recuperação de conta](/wiki/contas-e-seguranca/recuperacao-de-conta)
 
 Saiba como solicitar ajuda em situações de perda de acesso e quais procedimentos são necessários para verificar a titularidade da conta.
 
@@ -22,13 +23,13 @@ Saiba como solicitar ajuda em situações de perda de acesso e quais procediment
 
 Consulte as orientações relacionadas à troca de contas e às condições estabelecidas pelo servidor.
 
-### [Contas alternativas](contas-e-seguranca/contas-alternativas.md)
+### [Contas alternativas](/wiki/contas-e-seguranca/contas-alternativas)
 
 O DropMC permite até **três contas por pessoa**, sendo uma principal e duas alternativas. Conheça os limites, as responsabilidades e as práticas consideradas abuso.
 
 ## Responsabilidades
 
-### [Segurança e responsabilidades](contas-e-seguranca/seguranca-e-responsabilidades.md)
+### [Segurança e responsabilidades](/wiki/contas-e-seguranca/seguranca-e-responsabilidades)
 
 Entenda as diretrizes sobre privacidade, proteção de credenciais, responsabilidade pelas ações realizadas nas contas e atendimento oficial.
 

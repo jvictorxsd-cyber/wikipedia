@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page lF3Plvhs0N4tVHzjB2Ci -->
-
-# Trabalhos
+---
+title: "Trabalhos"
+description: "Documentação oficial do DropMC"
+---
 
 Os **Trabalhos** são árvores de habilidades que você pode desenvolver enquanto joga o Survival do DropMC. Cada nível alcançado permite adquirir pontos para investir nas habilidades.
 

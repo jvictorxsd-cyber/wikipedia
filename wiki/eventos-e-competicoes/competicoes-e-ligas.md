@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page e6EKupKar3WEsFMlqQZ0 -->
-
-# Competições e ligas
+---
+title: "Competições e ligas"
+description: "Documentação oficial do DropMC"
+---
 
 As competições do DropMC permitem que os jogadores disputem classificações e conquistem recompensas ao se destacar em diferentes atividades do Survival.
 
@@ -20,10 +21,10 @@ O objetivo é alcançar uma das **três primeiras posições** no ranking da ati
 
 Os jogadores do **Top 3** podem receber **Cash, coins e PDL**, de acordo com a colocação e as condições de cada liga.
 
-Para consultar a lista de ligas, atividades consideradas e valores das premiações, acesse [Ligas](../sistemas-do-servidor/ligas.md).
+Para consultar a lista de ligas, atividades consideradas e valores das premiações, acesse [Ligas](/wiki/sistemas-do-servidor/ligas).
 
 ## Competições de eventos especiais
 
 O DropMC também realiza desafios competitivos dentro de temporadas temáticas. Cada um possui suas próprias regras e premiações.
 
-Essas atividades são detalhadas na categoria [Eventos temáticos](eventos-tematicos.md).
+Essas atividades são detalhadas na categoria [Eventos temáticos](/wiki/eventos-e-competicoes/eventos-tematicos).

@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page BWf0sG2RZ9QG1oDmWOFM -->
-
-# Como completar missões
+---
+title: "Como completar missões"
+description: "Documentação oficial do DropMC"
+---
 
 As **missões do DropMC** são desafios que você pode realizar durante sua jornada no Survival para ganhar **coins**, **experiência de Survival (XP)** e outras recompensas. Elas também contribuem para sua progressão, já que subir de nível no Survival permite receber pontos para evoluir as habilidades dos Trabalhos.
 
@@ -54,7 +55,7 @@ O XP recebido nas missões é utilizado para aumentar o seu **nível de Survival
 
 Assim, as missões contribuem tanto para sua economia, por meio dos coins, quanto para o desenvolvimento do seu personagem.
 
-Para conhecer as profissões e suas habilidades, consulte [Trabalhos](../sistemas-do-servidor/trabalhos.md).
+Para conhecer as profissões e suas habilidades, consulte [Trabalhos](/wiki/sistemas-do-servidor/trabalhos).
 
 ## Dúvidas frequentes
 
@@ -76,6 +77,6 @@ As missões concedem **XP de Survival**. Esse XP contribui para aumentar seu ní
 
 ## Continue explorando
 
-Se quiser conhecer as categorias e o funcionamento geral, consulte a página [Missões](../sistemas-do-servidor/missoes.md). Para descobrir outras formas de conseguir coins, visite [Como ganhar dinheiro](como-ganhar-dinheiro.md).
+Se quiser conhecer as categorias e o funcionamento geral, consulte a página [Missões](/wiki/sistemas-do-servidor/missoes). Para descobrir outras formas de conseguir coins, visite [Como ganhar dinheiro](/wiki/guias-e-tutoriais/como-ganhar-dinheiro).
 
 Se tiver algum problema com o registro de progresso ou com as recompensas, entre em contato com a equipe no [Discord oficial do DropMC](https://discord.gg/dropmc).

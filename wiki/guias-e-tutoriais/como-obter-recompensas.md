@@ -1,6 +1,7 @@
-<!-- GitBook revision 8HFl7L6HUH9aEjZl8Pe8 | page tnmrwDatUBnauxZH8h8R -->
-
-# Como obter recompensas
+---
+title: "Como obter recompensas"
+description: "Documentação oficial do DropMC"
+---
 
 No **DropMC**, você não precisa depender de uma única atividade para conquistar prêmios. Ao jogar Survival, é possível receber **coins, experiência de Survival, chaves de caixas, equipamentos, cosméticos, Cash** e outras recompensas por meio de missões, eventos, competições e progressão.
 
@@ -25,7 +26,7 @@ Jogadores VIP possuem **ativação automática das missões**, sem precisar acei
 
 O XP obtido nas missões contribui para aumentar seu **nível de Survival**, permitindo receber pontos de habilidade para evoluir os Trabalhos.
 
-Confira o passo a passo em [Como completar missões](como-completar-missoes.md).
+Confira o passo a passo em [Como completar missões](/wiki/guias-e-tutoriais/como-completar-missoes).
 
 ## 2. Abra caixas para receber itens e benefícios
 
@@ -96,7 +97,7 @@ Os jogadores que terminarem entre os **três primeiros colocados** recebem premi
 
 Para consultar as competições disponíveis e acompanhar a classificação, utilize: `/ligas`
 
-Se quiser entender melhor as modalidades, consulte [Como participar das ligas](como-participar-das-ligas.md).
+Se quiser entender melhor as modalidades, consulte [Como participar das ligas](/wiki/guias-e-tutoriais/como-participar-das-ligas).
 
 ## 7. Consiga cosméticos e pets
 
@@ -111,7 +112,7 @@ Entre as formas de obtenção informadas pelo DropMC estão:
 
 A maioria desses itens é visual, enquanto determinados **pets lendários** possuem habilidades próprias para combate.
 
-Saiba mais em [Cosméticos](../sistemas-do-servidor/cosmeticos.md).
+Saiba mais em [Cosméticos](/wiki/sistemas-do-servidor/cosmeticos).
 
 ## Por onde começar?
 
@@ -130,6 +131,6 @@ Não é necessário realizar todas essas atividades ao mesmo tempo. Escolha as q
 
 Cada sistema possui **objetivos, condições e recompensas próprias**. Antes de participar de uma atividade ou utilizar uma chave, consulte os detalhes apresentados dentro do servidor.
 
-Para conhecer a visão geral de todas as caixas e seus fragmentos, acesse [Caixas e recompensas](../sistemas-do-servidor/caixas-e-recompensas.md).
+Para conhecer a visão geral de todas as caixas e seus fragmentos, acesse [Caixas e recompensas](/wiki/sistemas-do-servidor/caixas-e-recompensas).
 
 Se tiver alguma dúvida ou problema com uma premiação, entre em contato com a equipe pelo [Discord oficial do DropMC](https://discord.gg/dropmc).
