@@ -1,0 +1,562 @@
+[
+  {
+    "page": "bem-vindo-a-dropwiki.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/cRMntGK.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comece-aqui.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/EGFm78Q.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comece-aqui/boas-vindas-ao-dropmc.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/2pM0Zj6.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comece-aqui/como-entrar-no-servidor.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/8QrUz09.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comece-aqui/como-entrar-no-servidor/como-entrar-no-java-edition.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/dv3THxx.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comece-aqui/como-entrar-no-servidor/como-entrar-no-bedrock-edition.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/tlwgT04.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comece-aqui/primeiros-passos-no-survival.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/4URoJ5s.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comece-aqui/perguntas-frequentes.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/c0v79Ru.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/JjoFp9k.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/terrenos-e-protecoes.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/hosccHr.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/cash.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/imz5Tnq.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/economia-e-moedas.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/u73Z9vn.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/caixas-e-recompensas.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/9qZhmN1.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/cosmeticos.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/P4gthuX.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/trabalhos.md",
+    "cover": {
+      "ref": {
+        "kind": "file",
+        "file": "aU0guYWkjcNwXxBamtGL"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/trabalhos/minerador.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/8HycluY.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/trabalhos/lenhador.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/jZBOKyJ.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/trabalhos/fazendeiro.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/HhVCdtd.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/trabalhos/cacador.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/z47BHVC.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/trabalhos/pescador.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/yeKvjb2.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/missoes.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/wlgD9vQ.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/geradores-de-monstros.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/wXuwISd.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/ligas.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/IXz4EcG.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "sistemas-do-servidor/clas.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/uEJJGlt.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "guias-e-tutoriais.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/qFJVY4V.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "guias-e-tutoriais/como-proteger-seu-terreno.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/qsH4sqR.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "guias-e-tutoriais/como-ganhar-dinheiro.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/8wMaJ68.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "guias-e-tutoriais/como-usar-o-sistema-de-trabalhos.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/kt4vx75.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "guias-e-tutoriais/como-completar-missoes.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/cOUIb05.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "guias-e-tutoriais/como-utilizar-geradores.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/JFwn8KE.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "guias-e-tutoriais/como-participar-das-ligas.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/aEQKgaE.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "guias-e-tutoriais/como-obter-recompensas.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/ei4Z3Xq.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "guias-e-tutoriais/como-criar-um-cla.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/DZBKEVd.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "contas-e-seguranca.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/Mhbw5Cj.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "contas-e-seguranca/protecao-da-conta.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/pRaiBby.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "contas-e-seguranca/recuperacao-de-conta.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/X8hw8bX.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "contas-e-seguranca/contas-alternativas.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/yy4N4la.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "contas-e-seguranca/seguranca-e-responsabilidades.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/M0ACOmr.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comandos.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/7LKA3nj.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comandos/comandos-gerais.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/VKqxkK0.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comandos/terrenos-e-protecoes.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/rOmgwIz.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comandos/geradores.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/aec8cpg.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comandos/contas-e-seguranca.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/aec8cpg.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comandos/clas.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/tb5WFn8.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "eventos-e-competicoes.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/VKvcweB.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "eventos-e-competicoes/visao-geral-dos-eventos.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/WpM7zqO.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "eventos-e-competicoes/eventos-tematicos.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/k9laRSw.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "eventos-e-competicoes/eventos-tematicos/halloween-2026.md",
+    "cover": {
+      "ref": {
+        "kind": "file",
+        "file": "qq927dxGNy2Ejun9Z9br"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "eventos-e-competicoes/eventos-recorrentes.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/upTU5GL.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "eventos-e-competicoes/competicoes-e-ligas.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/ccxY5L1.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "regras-do-servidor.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/peTgaHY.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "regras-do-servidor/regras-e-politicas-do-dropmc.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/21ui4RJ.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comunidade-e-novidades.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/Dhi0ssL.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comunidade-e-novidades/central-de-suporte.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/IvixGhF.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comunidade-e-novidades/denuncias.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/9xrDKmK.png"
+      },
+      "yPos": 0
+    }
+  },
+  {
+    "page": "comunidade-e-novidades/sugestoes-e-feedback.md",
+    "cover": {
+      "ref": {
+        "kind": "url",
+        "url": "https://i.imgur.com/aec8cpg.png"
+      },
+      "yPos": 0
+    }
+  }
+]
