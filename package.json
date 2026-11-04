@@ -1,0 +1,14 @@
+{
+  "name": "dropwiki-site",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev wiki",
+    "docs:build": "vitepress build wiki",
+    "docs:preview": "vitepress preview wiki"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.4"
+  }
+}
